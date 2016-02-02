@@ -1,0 +1,18 @@
+KLEI     1 return {
+  last_used_slot=1,
+  slots={
+    {
+      enabled_mods={  },
+      server={  },
+      session_id="58C8AE8A92974B9A",
+      world={
+        day=5,
+        options={ { actualpreset="DST_CAVE", tweak={  } }, supportsmultilevel=true } 
+      } 
+    },
+    { enabled_mods={  }, server={  }, world={  } },
+    { enabled_mods={  }, server={  }, world={  } },
+    { enabled_mods={  }, server={  }, world={  } },
+    { enabled_mods={  }, server={  }, world={  } } 
+  } 
+}

@@ -1,0 +1,95 @@
+KLEI     1 return {
+  last_used_slot=1,
+  slots={
+    {
+      enabled_mods={  },
+      server={  },
+      session_id="B67457188F7C8219",
+      world={
+        day=5,
+        options={
+          {
+            tweak={
+              animals={
+                alternatehunt="default",
+                angrybees="default",
+                beefalo="default",
+                beefaloheat="default",
+                bees="default",
+                birds="default",
+                butterfly="default",
+                buzzard="default",
+                catcoon="default",
+                frogs="default",
+                hunt="default",
+                lightninggoat="default",
+                moles="default",
+                penguins="default",
+                perd="default",
+                pigs="default",
+                rabbits="default",
+                tallbirds="default" 
+              },
+              misc={
+                autumn="default",
+                boons="default",
+                branching="default",
+                day="default",
+                frograin="never",
+                lightning="default",
+                loop="default",
+                season_start="default",
+                spring="default",
+                start_location="default",
+                summer="default",
+                task_set="default",
+                touchstone="default",
+                weather="default",
+                wildfires="never",
+                winter="default",
+                world_size="huge" 
+              },
+              monsters={
+                bearger="default",
+                chess="default",
+                deciduousmonster="default",
+                deerclops="default",
+                dragonfly="default",
+                goosemoose="default",
+                houndmound="default",
+                hounds="default",
+                krampus="default",
+                liefs="default",
+                lureplants="default",
+                merm="default",
+                spiders="default",
+                tentacles="default",
+                walrus="default" 
+              },
+              resources={
+                flint="default",
+                flowers="default",
+                grass="default",
+                marshbush="default",
+                meteorshowers="default",
+                meteorspawner="default",
+                reeds="default",
+                rock="default",
+                rock_ice="default",
+                sapling="default",
+                trees="default",
+                tumbleweed="default" 
+              },
+              unprepared={ berrybush="often", cactus="often", carrot="often", mushroom="often" } 
+            } 
+          },
+          supportsmultilevel=true 
+        } 
+      } 
+    },
+    { enabled_mods={  }, server={  }, world={  } },
+    { enabled_mods={  }, server={  }, world={  } },
+    { enabled_mods={  }, server={  }, world={  } },
+    { enabled_mods={  }, server={  }, world={  } } 
+  } 
+}
