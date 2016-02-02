@@ -1,4 +1,7 @@
 #!/bin/sh
-cd /home/ubuntu/.klei/DoNotStarveTogether
-rm -rf ./save
-echo "DST save clear."
+
+rm -rf /home/ubuntu/.klei/DST_Overworld/save
+echo "DST Overworld save clear."
+
+rm -rf /home/ubuntu/.klei/DST_Caves/save
+echo "DST Caves save clear."
