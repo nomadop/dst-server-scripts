@@ -11,4 +11,3 @@
 	--ServerModCollectionSetup("379114180")
 
 ServerModCollectionSetup("608317663")
-ServerModSetup("458365884")
