@@ -28,7 +28,7 @@ return {
   animals = { -- "never", "rare", "default", "often", "always"
     alternatehunt = "default",
     angrybees = "default",
-    beefalo = "default",
+    beefalo = "often",
     beefaloheat = "default",
     bees = "default",
     birds = "default",
@@ -41,7 +41,7 @@ return {
     moles = "default",
     penguins = "default",
     perd = "default",
-    pigs = "default",
+    pigs = "often",
     rabbits = "default",
     tallbirds = "default",
   },

@@ -2,6 +2,9 @@ return {
 	["workshop-347079953"] = { -- Display food values
 		enabled = true,
 	},
+	["workshop-353697884"] = { -- Craftable Gears
+		enabled = true,
+	},
 	["workshop-356420397"] = { -- No More Respawn Penalty
 		enabled = true,
 	},
@@ -45,10 +48,13 @@ return {
 	["workshop-375850593"] = { -- Extra Equip Slots
 		enabled = true,
 	},
-	["workshop-375859599"] = { 
-		enabled = false,
+	["workshop-375859599"] = { -- Health Info
+		enabled = true,
 	},
 	["workshop-378160973"] = { -- Global Positions
+		enabled = true,
+	},
+	["workshop-378962221"] = { -- More Inventory
 		enabled = true,
 	},
 	["workshop-385006082"] = { -- DST Path Lights
@@ -57,6 +63,9 @@ return {
 	},
 	["workshop-404161345"] = { -- Ownership
 		enabled = false,
+	},
+	["workshop-447092740"] = { -- More Actions
+		enabled = true,
 	},
 	["workshop-458587300"] = { -- Fast Travel
 		enabled = true,
