@@ -4,9 +4,9 @@ KLEI     1 return {
     {
       enabled_mods={  },
       server={  },
-      session_id="58C8AE8A92974B9A",
+      session_id="89873EAC473958AA",
       world={
-        day=5,
+        day=17,
         options={ { actualpreset="DST_CAVE", tweak={  } }, supportsmultilevel=true } 
       } 
     },

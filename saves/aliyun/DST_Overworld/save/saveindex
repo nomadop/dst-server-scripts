@@ -4,16 +4,16 @@ KLEI     1 return {
     {
       enabled_mods={  },
       server={  },
-      session_id="B67457188F7C8219",
+      session_id="4BD665EC470C3A5B",
       world={
-        day=5,
+        day=17,
         options={
           {
             tweak={
               animals={
                 alternatehunt="default",
                 angrybees="default",
-                beefalo="default",
+                beefalo="often",
                 beefaloheat="default",
                 bees="default",
                 birds="default",
@@ -26,7 +26,7 @@ KLEI     1 return {
                 moles="default",
                 penguins="default",
                 perd="default",
-                pigs="default",
+                pigs="often",
                 rabbits="default",
                 tallbirds="default" 
               },
